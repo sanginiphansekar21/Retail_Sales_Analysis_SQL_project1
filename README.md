@@ -23,7 +23,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
-CREATE DATABASE p1_retail_db;
+CREATE DATABASE SQL_Query_P1;
 
 CREATE TABLE retail_sales
 (
@@ -214,4 +214,5 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 ## Author - SANGINI
 
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. 
+
 
